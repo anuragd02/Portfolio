@@ -37,10 +37,12 @@ export function HeroSection() {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-lg sm:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed text-pretty"
           >
-            Passionate mechatronics engineer seeking an opportunity to work in the field of automation and product
-            development. Experienced at enhancing product efficiency, with strengths in problem-solving and
-            communication. Involved in diverse extracurriculars like debating, agriculture, volunteering, and organizing
-            cultural events. Seeking to drive innovation as an automation engineer for impactful product development.
+            I’m a mechatronics engineer passionate about building systems that connect mechanical design, electronics, 
+            and intelligent control. At Boeing, I work on developing and deploying ROS-based navigation systems for 
+            automated guided vehicles (AGVs) that support production operations. My background from Manipal Institute 
+            of Technology and my experience across robotics, control systems, and data-driven reliability have taught 
+            me to approach problems with both technical depth and practical focus. I enjoy creating solutions that are 
+            robust, efficient, and make engineering work better on the ground.
           </motion.p>
 
           <motion.div
