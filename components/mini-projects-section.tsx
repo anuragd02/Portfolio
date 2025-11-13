@@ -14,20 +14,12 @@ const miniProjects = [
     components: "Soil Moisture Sensor, ESP32, Relay Module, Pump Driver, IoT Dashboard",
   },
   {
-    title: "Line Follower Robot",
-    category: "Robotics | Embedded Systems | Control Logic",
+    title: "Line Follower and Obstacle Avoidance Robot",
+    category: "Robotics | Embedded Systems | Control Systems",
     image: "/line-follower-robot-with-sensors.jpg",
     description:
-      "Autonomous line-tracking robot using IR sensors and PID control for smooth navigation across paths and intersections.",
+      "Built an autonomous robot that follows lines and avoids obstacles using IR and ultrasonic sensors with PID-based control for smooth and adaptive navigation.",
     components: "IR Sensor Array, Arduino, L293D Motor Driver, DC Motors, PID Controller",
-  },
-  {
-    title: "Obstacle Avoidance Robot",
-    category: "Robotics | Automation | Sensor Systems",
-    image: "/obstacle-avoidance-robot-ultrasonic.jpg",
-    description:
-      "Autonomous robot equipped with ultrasonic sensors for real-time obstacle detection and avoidance through programmed path correction.",
-    components: "Ultrasonic Sensor, Servo Motor, Arduino UNO, L298N Motor Driver, DC Motors",
   },
   {
     title: "Home Automation with IoT",
